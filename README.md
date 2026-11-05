@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Soyeb%20Azad%Rupom&fontSize=42&fontAlignY=32&desc=Aspiring%20Web%20Developer%20%7C%20HTML%20%7C%20CSS%20%7C%20C&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/> </div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=BARAKA%20%NOOR&fontSize=42&fontAlignY=32&desc=Aspiring%20Web%20Developer%20%7C%20HTML%20%7C%20CSS%20%7C%20C&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/> </div>
 
 <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3BADE8&center=true&vCenter=true&repeat=true&width=700&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Learning+Web+Development+%F0%9F%92%BB;HTML+%7C+CSS+%7C+C+Programming;Building+Small+Projects+Every+Day+%E2%9A%A1" alt="Typing SVG" /> </div>
 
@@ -69,9 +69,9 @@ Web Development
 
 <p align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/19ngEt1qR4/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/emir_rupom?dlrf=dms3dmo5d3c1MHg2)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soyeb-azad-939214231?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![Facebook]()
+[![Instagram](https://www.instagram.com/israt_is_cherry?exln=eDlzdHQzanBwcmQx&utm_source=qr)
+[![LinkedIn])
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)]()
 
 </p>
@@ -129,7 +129,7 @@ Web Development
 <p align="center">
   <strong><em>"First, solve the problem. Then, write the code."</em></strong>
   <br><br>
-  <span style="color:#FFA500;">— Syndicate Rupom</span>
+  <span style="color:#FFA500;">— Baraka Noor</span>
 </p>
 
 ---
