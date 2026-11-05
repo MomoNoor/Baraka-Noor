@@ -70,7 +70,7 @@ Web Development
 <p align="center">
 
 [![Facebook]()
-[![Instagram](https://www.instagram.com/israt_is_cherry?exln=eDlzdHQzanBwcmQx&utm_source=qr)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/israt_is_cherry?exln=eDlzdHQzanBwcmQx&utm_source=qr)
 [![LinkedIn])
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)]()
 
